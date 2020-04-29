@@ -16,3 +16,7 @@ If the user needs files to run the project the links should be included here. If
 
 # Previous Changes
 Version history/ Change history
+
+
+# Planned Improvements
+Future updates planned. If complete then it should be noted here
