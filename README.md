@@ -4,6 +4,13 @@ Currently a masters student at the University of Iowa studying business analytic
 This repository is an introduction to the style of the page
 
 
+# Table of Contents
+  1. Title
+  2. Instructions
+  3. Needed Files
+  4. Previous Changes
+  5. Planned Improvements
+
 # Project Title
 Hello World
 
